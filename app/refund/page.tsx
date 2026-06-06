@@ -81,7 +81,7 @@ export default function RefundPage() {
 
             <div className="mb-6 text-sm text-slate-600 dark:text-slate-400">
               <p>
-                Our order process is conducted by our online reseller Sumup.com. Sumup.com is the Merchant of Record for all our orders. Sumup provides all customer service inquiries and handles returns.
+                Our order process is conducted by our online reseller PSP/MOR.com. PSP/MOR.com is the Merchant of Record for all our orders. PSP/MOR provides all customer service inquiries and handles returns.
               </p>
             </div>
 

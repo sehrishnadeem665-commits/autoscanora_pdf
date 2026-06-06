@@ -57,7 +57,7 @@ export default function TermsPage() {
             </LegalSection>
 
             <LegalSection title="4. Payments and Subscriptions">
-              <p>Our order process is conducted by our online reseller Sumup.com. Sumup.com is the Merchant of Record for all our orders. Sumup provides all customer service inquiries and handles returns.</p>
+              <p>Our order process is conducted by our online reseller PSP/MOR.com. PSP/MOR.com is the Merchant of Record for all our orders. PSP/MOR provides all customer service inquiries and handles returns.</p>
             </LegalSection>
 
             <LegalSection title="5. Refund Policy">

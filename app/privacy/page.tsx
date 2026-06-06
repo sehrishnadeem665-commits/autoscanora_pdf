@@ -54,7 +54,7 @@ export default function PrivacyPage() {
 
             <LegalSection title="4. Payment Processing">
               <p>
-                All payments are processed by Sumup.com. We do not store any credit card information on our servers. Sumup.com is the Merchant of Record for all our orders.
+                All payments are processed by PSP/MOR.com. We do not store any credit card information on our servers. PSP/MOR.com is the Merchant of Record for all our orders.
               </p>
             </LegalSection>
 
