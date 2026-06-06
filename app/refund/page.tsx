@@ -81,7 +81,7 @@ export default function RefundPage() {
 
             <div className="mb-6 text-sm text-slate-600 dark:text-slate-400">
               <p>
-                Our order process is conducted by our online reseller wix.com. wix.com is the Merchant of Record for all our orders. wix provides all customer service inquiries and handles returns.
+                Our order process is conducted by our online reseller Sumup.com. Sumup.com is the Merchant of Record for all our orders. Sumup provides all customer service inquiries and handles returns.
               </p>
             </div>
 
