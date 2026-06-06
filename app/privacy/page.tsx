@@ -54,7 +54,7 @@ export default function PrivacyPage() {
 
             <LegalSection title="4. Payment Processing">
               <p>
-                All payments are processed by Paddle.com. We do not store any credit card information on our servers. Paddle.com is the Merchant of Record for all our orders.
+                All payments are processed by wix.com. We do not store any credit card information on our servers. wix.com is the Merchant of Record for all our orders.
               </p>
             </LegalSection>
 

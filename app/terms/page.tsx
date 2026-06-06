@@ -57,7 +57,7 @@ export default function TermsPage() {
             </LegalSection>
 
             <LegalSection title="4. Payments and Subscriptions">
-              <p>Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders. Paddle provides all customer service inquiries and handles returns.</p>
+              <p>Our order process is conducted by our online reseller wix.com. wix.com is the Merchant of Record for all our orders. wix provides all customer service inquiries and handles returns.</p>
             </LegalSection>
 
             <LegalSection title="5. Refund Policy">
