@@ -42,10 +42,10 @@ export function Footer() {
             <div className="flex items-center gap-1 text-sm text-slate-400 mb-4">
               <Mail className="w-4 h-4 text-blue-400 shrink-0" />
               <a
-                href="mailto:support@AutoScanOra.com"
+                href="mailto:info@autoscanora.com"
                 className="hover:text-blue-400 transition-colors"
               >
-                support@AutoScanOra.com
+                info@autoscanora.com
               </a>
             </div>
             <div className="text-sm text-slate-400 leading-relaxed">

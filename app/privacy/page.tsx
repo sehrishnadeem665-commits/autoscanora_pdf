@@ -61,8 +61,8 @@ export default function PrivacyPage() {
             <LegalSection title="5. Your Rights">
               <p>
                 You have the right to access, correct, or delete your personal information. Contact us at{' '}
-                <a href="mailto:support@AutoScanOra.com" className="text-blue-600 dark:text-blue-400 hover:underline">
-                  support@AutoScanOra.com
+                <a href="mailto:info@autoscanora.com" className="text-blue-600 dark:text-blue-400 hover:underline">
+                  info@autoscanora.com
                 </a>{' '}
                 for any requests.
               </p>
@@ -70,7 +70,7 @@ export default function PrivacyPage() {
 
             <LegalSection title="6. Contact Us">
               <p>
-                Email: <a href="mailto:support@AutoScanOra.com" className="text-blue-600 dark:text-blue-400 hover:underline">support@AutoScanOra.com</a>
+                Email: <a href="mailto:info@autoscanora.com" className="text-blue-600 dark:text-blue-400 hover:underline">info@autoscanora.com</a>
               </p>
               <p>
                 Address: <span className="text-slate-700 dark:text-slate-300">SIU OFFICES, 4-6 GREATOREX STREET

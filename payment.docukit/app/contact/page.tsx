@@ -52,8 +52,8 @@ export default function ContactPage() {
                     {
                       icon: Mail,
                       label: 'Email Support',
-                      value: 'support@AutoScanOra.com',
-                      href: 'mailto:support@AutoScanOra.com',
+                      value: 'info@autoscanora.com',
+                      href: 'mailto:info@autoscanora.com',
                       color: 'from-blue-500 to-blue-600',
                     },
                     {

@@ -93,7 +93,7 @@ export default function RefundPage() {
 
             <LegalSection title="2. How to Request a Refund">
               <p>
-                To request a refund, email us at <a href="mailto: support@AutoScanOra.com" className="text-blue-600 dark:text-blue-400 hover:underline"> support@AutoScanOra.com</a> with your order details and reason for refund.
+                To request a refund, email us at <a href="mailto: info@autoscanora.com" className="text-blue-600 dark:text-blue-400 hover:underline"> info@autoscanora.com</a> with your order details and reason for refund.
               </p>
             </LegalSection>
 

@@ -56,7 +56,7 @@ const faqCategories = [
       },
       {
         q: 'How do I cancel my subscription?',
-        a: 'You can cancel your subscription at any time from your account dashboard or by emailing support@AutoScanOra.com. Your access continues until the end of the billing period.',
+        a: 'You can cancel your subscription at any time from your account dashboard or by emailing info@autoscanora.com. Your access continues until the end of the billing period.',
       },
       {
         q: 'Will I be charged automatically?',

@@ -69,7 +69,7 @@ export default function TermsPage() {
             </LegalSection>
 
             <LegalSection title="7. Contact Information">
-              <p>Email: support@AutoScanOra.com</p>
+              <p>Email: info@autoscanora.com</p>
             </LegalSection>
           </div>
         </section>
