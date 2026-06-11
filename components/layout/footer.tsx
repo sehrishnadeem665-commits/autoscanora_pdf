@@ -33,7 +33,7 @@ export function Footer() {
                 <FileText className="w-4 h-4 text-white" />
               </div>
               <span className="text-xl font-bold text-white">
-                Dox<span className="text-blue-400">sify</span>
+                AutoScan<span className="text-blue-400">Ora</span>
               </span>
             </Link>
             <p className="text-sm leading-relaxed text-slate-400 mb-6 max-w-xs">

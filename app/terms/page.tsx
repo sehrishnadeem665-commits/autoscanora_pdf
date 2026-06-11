@@ -45,11 +45,11 @@ export default function TermsPage() {
         <section className="py-16 px-4 sm:px-6 lg:px-8 bg-white dark:bg-slate-900">
           <div className="max-w-3xl mx-auto">
             <LegalSection title="1. Acceptance of Terms">
-              <p>By accessing or using DocuKit, you agree to be bound by these Terms of Service.</p>
+              <p>By accessing or using AutoScanOra, you agree to be bound by these Terms of Service.</p>
             </LegalSection>
 
             <LegalSection title="2. Description of Service">
-              <p>DocuKit provides document conversion and optimization tools. Users can upload files, process them, and download results.</p>
+              <p>AutoScanOra provides document conversion and optimization tools. Users can upload files, process them, and download results.</p>
             </LegalSection>
 
             <LegalSection title="3. User Responsibilities">
@@ -61,11 +61,11 @@ export default function TermsPage() {
             </LegalSection>
 
             <LegalSection title="5. Refund Policy">
-              <p>We offer a 14-day money-back guarantee for Pro subscriptions. Contact us within 14 days of purchase for a full refund.</p>
+              <p>We offer a 14-day money-back guarantee for One Time Payment Contact us within 14 days of purchase for a full refund.</p>
             </LegalSection>
 
             <LegalSection title="6. Limitation of Liability">
-              <p>DocuKit is provided "as is" without warranties. We are not liable for any damages arising from use of our service.</p>
+              <p>AutoScanOra is provided "as is" without warranties. We are not liable for any damages arising from use of our service.</p>
             </LegalSection>
 
             <LegalSection title="7. Contact Information">

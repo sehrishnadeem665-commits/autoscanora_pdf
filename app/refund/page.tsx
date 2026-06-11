@@ -111,7 +111,7 @@ export default function RefundPage() {
 
             <LegalSection title="5. Partial Refunds">
               <p>
-                Partial refunds may be issued at our discretion for unused portions of subscription terms.
+                Partial refunds may be issued at our discretion for unused portions of one time payment terms.
               </p>
             </LegalSection>
 
